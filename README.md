@@ -16,6 +16,9 @@ Back:
 
 ## :high_brightness: Algumas Funcionalidades
 - Listagem da contagem de bolões;
+- Criação de novos bolões;
+- Listagem da contagem do número de usuários;
+- Listagem da contagem do número de palpites
 
 
 ## Vamos nos conectar?
