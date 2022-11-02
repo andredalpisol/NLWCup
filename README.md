@@ -20,7 +20,7 @@ Back:
 - Listagem da contagem do número de usuários;
 - Listagem da contagem do número de palpites
 
-## Imagens
+## :camera: Imagens
 ### Landing Page
 ![front-page](https://live.staticflickr.com/65535/52471170656_c63978e074_k.jpg)
 
