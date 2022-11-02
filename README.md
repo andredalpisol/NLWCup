@@ -11,8 +11,8 @@ Front:
 - Typescript;
 
 Back:
--Node.js;
--Prisma;
+- Node.js;
+- Prisma;
 
 ## :high_brightness: Algumas Funcionalidades
 - Listagem da contagem de bolões;
